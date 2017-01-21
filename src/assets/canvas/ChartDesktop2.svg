@@ -1,0 +1,15 @@
+<svg
+                                    id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1329.04 332.92">
+                                    <defs>
+                                        <style>
+                                            .cls-1 {
+                                            fill: none;
+                                            stroke: #ed1f24;
+                                            stroke-miterlimit: 10;
+                                            }
+                                        </style>
+                                    </defs>
+                                    <title>services-chart-b-desktop</title>
+                                    <path
+                                        id="chart-02-line" class="cls-1" d="M3154.12,3707.61a166,166,0,0,0,331.92,0c0-91.66,74.49-166,166.15-166a166,166,0,0,1,166,166c0,91.66,74.49,166,166.15,166a166,166,0,0,0,166-166,166,166,0,0,1,331.92,0" transform="translate(-3153.62 -3541.15)"/>
+                                </svg>

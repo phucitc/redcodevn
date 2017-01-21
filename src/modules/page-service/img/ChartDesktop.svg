@@ -1,0 +1,42 @@
+<svg
+                                    id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1327.86 664.31">
+                                    <defs>
+                                        <style>
+                                            .cls-1, .cls-2 {
+                                            fill: none;
+                                            stroke: #ed1f24;
+                                            stroke-miterlimit: 10;
+                                            }
+                                            .cls-2 {
+                                            stroke-width: 0.75px;
+                                            stroke-dasharray: 12;
+                                            }
+                                            .cls-3-mask {
+                                            stroke-width: 5px; stroke: #fff; fill: none; stroke-miterlimit: 10;
+                                            }
+                                        </style>
+                                        <mask
+                                            id="chart01-dashed01-mask">
+                                            <path
+                                                id="chart01-dashed01-mask-path" class="cls-3-mask" d="M4481.52,2085.44C4481.52,2294.5,4312,2464,4103,2464s-378.52-169.47-378.52-378.52c0-157.42-127.61-285-285-285s-285,127.61-285,285" />
+                                        </mask>
+                                    </defs>
+                                    <circle
+                                        id="chart01-circle02" class="cls-1" cx="285.52" cy="285.33" r="94.97"/>
+                                    <circle
+                                        id="chart01-circle01" class="cls-1" cx="95.58" cy="285.33" r="94.97"/>
+                                    <circle
+                                        id="chart01-circle03" class="cls-1" cx="475.46" cy="285.33" r="94.97"/>
+                                    <circle
+                                        id="chart01-circle04" class="cls-1" cx="646.09" cy="286.61" r="75.66"/>
+                                    <circle
+                                        id="chart01-circle05" class="cls-1" cx="797.44" cy="286.61" r="75.66"/>
+                                    <circle
+                                        id="chart01-circle06" class="cls-1" cx="948.75" cy="286.61" r="75.66"/>
+                                    <circle
+                                        id="chart01-circle07" class="cls-1" cx="1100.07" cy="286.61" r="75.66"/>
+                                    <circle
+                                        id="chart01-circle08" class="cls-1" cx="1251.42" cy="286.61" r="75.66"/>
+                                    <path
+                                        id="chart01-curve" class="cls-2" mask="url(#chart01-dashed01-mask)" d="M4481.52,2085.44C4481.52,2294.5,4312,2464,4103,2464s-378.52-169.47-378.52-378.52c0-157.42-127.61-285-285-285s-285,127.61-285,285" transform="translate(-3154.03 -1800.04)"/>
+                                </svg>

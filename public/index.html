@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="Copyright" content="Copyright &copy; Demo 2016. All Rights Reserved.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <title data-site-title>REDCODE</title>
+    <style type="text/css">
+            img.wp-smiley,
+            img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+            }
+        </style>
+    <link rel='stylesheet' id='screen-css'  href='%PUBLIC_URL%/css/main.min.css?ver=1479817473' type='text/css' media='all' />
+            <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>-->
+            <script src="%PUBLIC_URL%/js/jquery-1.11.3.min.js"></script>
+        <script type='text/javascript' src='%PUBLIC_URL%/js/init.min.js?ver=1479817460'></script>
+        <style type="text/css" id="syntaxhighlighteranchor"></style>
+        
+        <script type='text/javascript' src='%PUBLIC_URL%/js/jquery.session.js'></script>
+        
+        <script>
+            
+            $(document).ready(function(){
+                $('.menu-item a').click(function(){
+                   var href = $(this).attr('href');
+                   window.location.href = href;
+                });
+				$('.action-href').click(function(){
+					var href = $(this).attr('href');
+                    window.location.href = href;
+				});
+            })
+            $(document).ready(function(){
+                $('.language').click(function(){
+                    var data = $(this).attr('data-language');
+                    if(data=='vn')
+                    {
+                        $('.en').hide();
+                        $('.vn').show();
+                    }
+                    if(data=='en')
+                    {
+                        $('.vn').hide();
+                        $('.en').show();
+                    }
+                })
+            })
+        </script>
+  </head>
+  <body class="home page page-id-5 page-template-default">
+    <div id="root"></div>
+    <script type="text/javascript" src="%PUBLIC_URL%/js/scriptv1.js"}></script>
+    <script type='text/javascript'>
+            (function(){
+            	var corecss = document.createElement('link');
+            	var themecss = document.createElement('link');
+            	var corecssurl = "%PUBLIC_URL%/css/shCore.css?ver=3.0.9b";
+            	if ( corecss.setAttribute ) {
+            			corecss.setAttribute( "rel", "stylesheet" );
+            			corecss.setAttribute( "type", "text/css" );
+            			corecss.setAttribute( "href", corecssurl );
+            	} else {
+            			corecss.rel = "stylesheet";
+            			corecss.href = corecssurl;
+            	}
+            	document.getElementsByTagName("head")[0].insertBefore( corecss, document.getElementById("syntaxhighlighteranchor") );
+            	var themecssurl = "%PUBLIC_URL%/css/shThemeDefault.css?ver=3.0.9b";
+            	if ( themecss.setAttribute ) {
+            			themecss.setAttribute( "rel", "stylesheet" );
+            			themecss.setAttribute( "type", "text/css" );
+            			themecss.setAttribute( "href", themecssurl );
+            	} else {
+            			themecss.rel = "stylesheet";
+            			themecss.href = themecssurl;
+            	}
+            	//document.getElementById("syntaxhighlighteranchor").appendChild(themecss);
+            	document.getElementsByTagName("head")[0].insertBefore( themecss, document.getElementById("syntaxhighlighteranchor") );
+            })();
+            SyntaxHighlighter.config.strings.expandSource = '+ expand source';
+            SyntaxHighlighter.config.strings.help = '?';
+            SyntaxHighlighter.config.strings.alert = 'SyntaxHighlighter\n\n';
+            SyntaxHighlighter.config.strings.noBrush = 'Can\'t find brush for: ';
+            SyntaxHighlighter.config.strings.brushNotHtmlScript = 'Brush wasn\'t configured for html-script option: ';
+            SyntaxHighlighter.defaults['class-name'] = 'code-wrapper';
+            SyntaxHighlighter.defaults['pad-line-numbers'] = false;
+            SyntaxHighlighter.defaults['smart-tabs'] = false;
+            SyntaxHighlighter.defaults['toolbar'] = false;
+            SyntaxHighlighter.all();
+        </script><script type='text/javascript' src='%PUBLIC_URL%/js/all.min.js?ver=1479817466'></script>
+        <script type="text/javascript" src="%PUBLIC_URL%/js/script.js"></script>
+  </body>
+</html>

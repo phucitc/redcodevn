@@ -1,0 +1,105 @@
+<svg
+                                    id="6b29bad8-6c52-454b-a9cd-cbdeaaf84655" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 714.9 498">
+                                    <defs>
+                                        <style>
+                                            .\39 71b331f-36c2-40b7-a770-cfc25bb2b012 {
+                                            fill: #fff;
+                                            }
+                                            .\31 7e7aa46-5968-4271-9e43-58d5335f4c6b, .\37 cc00d5e-4b93-42bd-827e-04ddf2485458, .\38 f80ecc4-d876-43ea-b603-846dbabe576e, .a2e9e12e-d930-4122-ba53-548053af8fa1, .a59f089d-bce0-40f4-bac3-d67c157851db, .b4e94597-67d7-4773-8290-afdb98020e98 {
+                                            fill: none;
+                                            stroke: #fff;
+                                            stroke-miterlimit: 10;
+                                            }
+                                            .\31 7e7aa46-5968-4271-9e43-58d5335f4c6b, .\37 cc00d5e-4b93-42bd-827e-04ddf2485458, .\38 f80ecc4-d876-43ea-b603-846dbabe576e, .a2e9e12e-d930-4122-ba53-548053af8fa1, .b4e94597-67d7-4773-8290-afdb98020e98 {
+                                            stroke-width: 0.75px;
+                                            }
+                                            .\38 f80ecc4-d876-43ea-b603-846dbabe576e {
+                                            stroke-dasharray: 12;
+                                            }
+                                            .b4e94597-67d7-4773-8290-afdb98020e98 {
+                                            stroke-dasharray: 11.78 11.78;
+                                            }
+                                            .\37 cc00d5e-4b93-42bd-827e-04ddf2485458 {
+                                            stroke-dasharray: 11.96 11.96;
+                                            }
+                                            .a2e9e12e-d930-4122-ba53-548053af8fa1 {
+                                            stroke-dasharray: 11.99 11.99;
+                                            }
+                                        </style>
+                                    </defs>
+                                    <title>process-chart-a-tablet</title>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="327.83" cy="325.19" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="212.41" cy="325.19" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="443.15" cy="325.19" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="558.31" cy="325.17" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="710.31" cy="325.19" r="4.58"/>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1696.62,2888.22a57.52,57.52,0,0,0-115,0,57.52,57.52,0,0,0-115,0,57.52,57.52,0,0,0-115,0" transform="translate(-1138.58 -2563.03)"/>
+                                    <path
+                                        class="8f80ecc4-d876-43ea-b603-846dbabe576e" d="M1696.62,2888.22a57.52,57.52,0,0,1-115,0,57.52,57.52,0,0,1-115,0,57.52,57.52,0,0,1-115,0" transform="translate(-1138.58 -2563.03)"/>
+                                    <g>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1351.49,2888.81q0-3,.1-6" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="b4e94597-67d7-4773-8290-afdb98020e98" d="M1352.4,2871a172.61,172.61,0,0,1,343.89,5.87" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1696.58,2882.81q0.1,3,.1,6" transform="translate(-1138.58 -2563.03)"/>
+                                    </g>
+                                    <g>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1849,2888.22q0,3-.23,6" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="7cc00d5e-4b93-42bd-827e-04ddf2485458" d="M1846.92,2906a76.17,76.17,0,0,1-149.28-5.9" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1696.94,2894.21q-0.23-3-.23-6" transform="translate(-1138.58 -2563.03)"/>
+                                    </g>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1849.39,2887.6a76.15,76.15,0,0,0-152.3,0,172.93,172.93,0,0,1-345.86,0" transform="translate(-1138.58 -2563.03)"/>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1351.23,2889.14a172.93,172.93,0,0,1,172.93-172.93" transform="translate(-1138.58 -2563.03)"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="4.58" cy="77.46" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="156.89" cy="77.46" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="309.95" cy="77.46" r="4.58"/>
+                                    <circle
+                                        class="971b331f-36c2-40b7-a770-cfc25bb2b012" cx="462.59" cy="77.46" r="4.58"/>
+                                    <g>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1295.85,2639.87q0,3-.23,6" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="a2e9e12e-d930-4122-ba53-548053af8fa1" d="M1293.76,2657.71a76.36,76.36,0,0,1-149.66-5.91" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1143.4,2645.87q-0.23-3-.23-6" transform="translate(-1138.58 -2563.03)"/>
+                                    </g>
+                                    <g>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1295.85,2639.87q0-3,.23-6" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="a2e9e12e-d930-4122-ba53-548053af8fa1" d="M1297.95,2622a76.36,76.36,0,0,1,149.66,5.91" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1448.3,2633.87q0.23,3,.23,6" transform="translate(-1138.58 -2563.03)"/>
+                                    </g>
+                                    <g>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1601.22,2639.87q0,3-.23,6" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="a2e9e12e-d930-4122-ba53-548053af8fa1" d="M1599.12,2657.71a76.36,76.36,0,0,1-149.66-5.91" transform="translate(-1138.58 -2563.03)"/>
+                                        <path
+                                            class="17e7aa46-5968-4271-9e43-58d5335f4c6b" d="M1448.77,2645.87q-0.23-3-.23-6" transform="translate(-1138.58 -2563.03)"/>
+                                    </g>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1447.89,2639.87a76.34,76.34,0,0,1,152.68,0" transform="translate(-1138.58 -2563.03)"/>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1295.21,2639.87a76.34,76.34,0,0,0,152.68,0" transform="translate(-1138.58 -2563.03)"/>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1142.52,2639.87a76.34,76.34,0,0,1,152.68,0" transform="translate(-1138.58 -2563.03)"/>
+                                    <path
+                                        class="a59f089d-bce0-40f4-bac3-d67c157851db" d="M1601.06,2640.48c0,42.16-34.67,75.73-76.83,75.73" transform="translate(-1138.58 -2563.03)"/>
+                                </svg>

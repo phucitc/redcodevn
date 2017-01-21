@@ -1,0 +1,37 @@
+<svg
+                                    id="0aa7628d-0468-4133-b771-cd0ebfb08109" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 726.21 414.14">
+                                    <defs>
+                                        <style>
+                                            .\33 2d4bbe2-5e5c-4730-995e-7a50ca407b6c, .\36 f305b9b-af2a-4546-9487-519679d5183b {
+                                            fill: none;
+                                            stroke: #ed1f24;
+                                            stroke-miterlimit: 10;
+                                            }
+                                            .\36 f305b9b-af2a-4546-9487-519679d5183b {
+                                            stroke-width: 0.75px;
+                                            stroke-dasharray: 12;
+                                            }
+                                        </style>
+                                    </defs>
+                                    <title>services-chart-a-tablet</title>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="73.19" cy="196.84" r="72"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="146.36" cy="72.5" r="72"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="219.53" cy="196.84" r="72"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="365.21" cy="196.84" r="72.09"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="509.43" cy="196.84" r="72.09"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="653.62" cy="196.84" r="72.09"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="437.25" cy="321.54" r="72.09"/>
+                                    <circle
+                                        class="32d4bbe2-5e5c-4730-995e-7a50ca407b6c" cx="581.82" cy="320.96" r="72.09"/>
+                                    <path
+                                        class="6f305b9b-af2a-4546-9487-519679d5183b" d="M1422.21,1445.89v-54.36a146.1,146.1,0,1,0-292.21,0v54.36" transform="translate(-1129.63 -1244.87)"/>
+                                    <path
+                                        class="6f305b9b-af2a-4546-9487-519679d5183b" d="M1855.34,1442.35c0,119.45-96.84,216.29-216.29,216.29s-216.29-96.84-216.29-216.29" transform="translate(-1129.63 -1244.87)"/>
+                                </svg>
